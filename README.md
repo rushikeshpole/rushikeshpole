@@ -16,7 +16,7 @@
 engineer:
   name:   Rushikesh Pole
   role:   Robotics + AI Engineer · Full-Stack Builder
-  base:   Nanded, India
+  base:   Karanja (Lad), India
   build:  machines that see, move and decide — and the AI that runs them
 
   focus:
