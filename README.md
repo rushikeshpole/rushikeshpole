@@ -10,15 +10,7 @@
 
 <br/>
 
-<img src="stack.svg" width="72%" alt="cat stack.txt"/>
-
-<br/>
-
-<img src="agents.svg" width="72%" alt="ai-agents --how-i-build"/>
-
-<br/>
-
-<img src="highlights.svg" width="72%" alt="ls ~/highlights"/>
+<a href="https://rushikeshpole.github.io/"><img src="terminal.svg" width="78%" alt="rushikesh@robotics terminal session"/></a>
 
 <br/>
 
