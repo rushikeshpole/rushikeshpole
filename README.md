@@ -12,15 +12,15 @@
 
 <br/>
 
-<img src="stack.svg" width="92%" alt="cat stack.txt"/>
+<img src="stack.svg" width="72%" alt="cat stack.txt"/>
 
 <br/>
 
-<img src="agents.svg" width="92%" alt="ai-agents --how-i-build"/>
+<img src="agents.svg" width="72%" alt="ai-agents --how-i-build"/>
 
 <br/>
 
-<img src="highlights.svg" width="92%" alt="ls ~/highlights"/>
+<img src="highlights.svg" width="72%" alt="ls ~/highlights"/>
 
 <br/>
 
