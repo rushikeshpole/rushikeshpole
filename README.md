@@ -10,46 +10,19 @@
 
 </div>
 
-## `$ whoami`
+<br/>
 
-```yaml
-engineer:
-  name:   Rushikesh Pole
-  role:   Robotics + AI Engineer · Full-Stack Builder
-  base:   Karanja (Lad), India
-  build:  machines that see, move and decide — and the AI that runs them
+<img src="stack.svg" width="92%" alt="cat stack.txt"/>
 
-  focus:
-    autonomous_systems:   ros2 · nav2 · slam · sensor-fusion   # robots that navigate themselves
-    perception_3d:        detection · re-id · depth · 3d-reconstruction
-    drones_airspace:      photogrammetry · airspace-deconfliction
-    ai_native:            multi-agent orchestration · tool-use   # design & ship features fast
-    full_stack:           firmware → frontend → cloud deployment
+<br/>
 
-  motto: "build the whole system."
-```
+<img src="agents.svg" width="92%" alt="ai-agents --how-i-build"/>
 
-## `$ cat stack.txt`
+<br/>
 
-```bash
-robotics     ros2 · nav2 · slam · moveit · gazebo · rviz
-perception   opencv · pytorch · yolo · mediapipe · vlms
-embedded     esp32 · stm32 · raspberry-pi · freertos
-languages    python · c++ · c · javascript
-cloud_ops    docker · aws · ci-cd · grafana · linux
-protocols    uart · i2c · spi · mqtt · esp-now · zigbee
-sensors      lidar · depth-camera · imu · gps-gnss
-```
+<img src="highlights.svg" width="92%" alt="ls ~/highlights"/>
 
-## `$ ls ~/highlights`
-
-```bash
-international-rover-challenge-25/   # software lead — autonomy, networking, perception
-robofest-4.0/                      # grand finalist (gujcost)
-isro-iroc-u-24/                    # team — ideation + prototype rounds
-```
-
-<div align="center">
+<br/>
 
 <sub><code>> building a world with less friction — one autonomous system at a time.</code></sub>
 
