@@ -14,6 +14,6 @@
 
 <br/>
 
-<sub><code>> building a world with less friction — one autonomous system at a time.</code></sub>
+<sub><code>> **building a world with less friction one autonomous system at a time.**</code></sub>
 
 </div>
