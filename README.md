@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://rushikeshpole.github.io/"><img src="terminal.svg" width="78%" alt="rushikesh@robotics terminal session"/></a>
+<a href="https://rushikeshpole.github.io/"><img src="terminal.svg" width="80%" alt="rushikesh@robotics terminal session"/></a>
 
 <br/>
 
