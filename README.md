@@ -8,19 +8,17 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:polerishi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://rushikeshpole.github.io/)
 
-</div>
+<br/>
+
+<img src="assets/stack.svg" width="72%" alt="cat stack.txt"/>
 
 <br/>
 
-<img src="stack.svg" width="72%" alt="cat stack.txt"/>
+<img src="assets/agents.svg" width="72%" alt="ai-agents --how-i-build"/>
 
 <br/>
 
-<img src="agents.svg" width="72%" alt="ai-agents --how-i-build"/>
-
-<br/>
-
-<img src="highlights.svg" width="72%" alt="ls ~/highlights"/>
+<img src="assets/highlights.svg" width="72%" alt="ls ~/highlights"/>
 
 <br/>
 
