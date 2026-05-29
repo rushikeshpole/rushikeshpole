@@ -10,15 +10,15 @@
 
 <br/>
 
-<img src="assets/stack.svg" width="72%" alt="cat stack.txt"/>
+<img src="stack.svg" width="72%" alt="cat stack.txt"/>
 
 <br/>
 
-<img src="assets/agents.svg" width="72%" alt="ai-agents --how-i-build"/>
+<img src="agents.svg" width="72%" alt="ai-agents --how-i-build"/>
 
 <br/>
 
-<img src="assets/highlights.svg" width="72%" alt="ls ~/highlights"/>
+<img src="highlights.svg" width="72%" alt="ls ~/highlights"/>
 
 <br/>
 
